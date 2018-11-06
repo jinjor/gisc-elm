@@ -71,7 +71,7 @@ subscriptions model =
 -- VIEW
 
 
-view : Model -> Document Msg
+view : Model -> Browser.Document Msg
 view model =
     { title = ""
     , body = []
