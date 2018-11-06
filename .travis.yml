@@ -4,4 +4,4 @@ node_js:
 install:
   - npm install -g elm
 script:
-  - sh test.sh
+  - bash test.sh
