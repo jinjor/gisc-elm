@@ -18,12 +18,12 @@ gisc add elm.time evancz/elm-architecture-tutorial examples/05-time.elm
 gisc add elm.http evancz/elm-architecture-tutorial examples/06-http.elm
 
 # This repo
-gisc add elm.sandbox jinjor/gisc sandbox.elm
-gisc add elm.element jinjor/gisc element.elm
-gisc add elm.document jinjor/gisc document.elm
-gisc add elm.application jinjor/gisc application.elm
-gisc add elm.package jinjor/gisc elm.package.json
-gisc add elm.index jinjor/gisc index.html
+gisc add elm.sandbox jinjor/gisc-elm sandbox.elm
+gisc add elm.element jinjor/gisc-elm element.elm
+gisc add elm.document jinjor/gisc-elm document.elm
+gisc add elm.application jinjor/gisc-elm application.elm
+gisc add elm.package jinjor/gisc-elm elm.package.json
+gisc add elm.index jinjor/gisc-elm index.html
 ```
 
 3. Use it!
