@@ -9,9 +9,9 @@
 
 <body>
     <div id="root"></div>
-    <script src="elm.js">
+    <script>
         var app = Elm.Main.init({
-            node: "root",
+            node: document.getElementById("root"),
             flags: undefined
         });
         // app.ports.ping.subscribe(function () {
